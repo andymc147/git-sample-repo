@@ -5,6 +5,6 @@ git config --global user.email andymc147@yahoo.com
 git config user.name "andymc147"
 git config user.email andymc147@yahoo.com
 git add <file name> or *
-git commit -m ""
+git commit -m ""  -> put comment about the commit in the quotes
 git log
 git diff <filename>
