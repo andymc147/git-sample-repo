@@ -1,0 +1,11 @@
+git status   -> Prints the status of the Git depository
+git init  -> initializes the git repository
+git config --global user.name "andymc147"
+git config --global user.email andymc147@yahoo.com
+git config user.name "andymc147"
+git config user.email andymc147@yahoo.com
+git add <file name> or *
+git commit -m ""  -> put comment about the commit in the quotes
+xxxxxxx
+git log
+git diff <filename> -> the file you are doing the diff on must have an uncommitted version it seems
