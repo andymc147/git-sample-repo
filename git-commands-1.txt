@@ -7,4 +7,4 @@ git config user.email andymc147@yahoo.com
 git add <file name> or *
 git commit -m ""  -> put comment about the commit in the quotes
 git log
-git diff <filename>
+git diff <filename> -> the file you are doing the diff on must have an uncommitted version it seems
